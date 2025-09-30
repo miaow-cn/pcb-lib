@@ -38,12 +38,12 @@ OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
-CrossRefSheetStyle=1
+CrossRefSheetStyle=2
 CrossRefLocationStyle=1
 CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
-CrossRefFollowFromMainSettings=1
+CrossRefFollowFromMainSettings=0
 
 [Preferences]
 PrefsVaultGUID=
@@ -85,9 +85,9 @@ DocumentUniqueId=SPCOHXLI
 
 [Document3]
 DocumentPath=..\example\tps62130.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=100
-AnnotationIndexControlEnabled=1
+AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=0
@@ -102,6 +102,23 @@ DocumentUniqueId=UIHLIGRC
 
 [Document4]
 DocumentPath=..\example\drv8323.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=200
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WEIHRVUE
+
+[Document5]
+DocumentPath=..\example\drv8323.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -115,7 +132,58 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WEIHRVUE
+DocumentUniqueId=
+
+[Document6]
+DocumentPath=top.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZCIWTNIT
+
+[Document7]
+DocumentPath=..\example\is42s32800j.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=300
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NHPKUPPA
+
+[Document8]
+DocumentPath=..\example\is42s32800j.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
@@ -952,8 +1020,8 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=mw.SchLib
-ComponentDesignItemID0=L
-ComponentSymbolReference0=L
+ComponentDesignItemID0=IS42S32800J-6BLI
+ComponentSymbolReference0=IS42S32800J-6BLI
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -969,49 +1037,23 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Code_IEC
+ParameterName0=Comment
 ParameterUpdate0=1
-ParameterName1=Code_JEITA
+ParameterName1=Component Kind
 ParameterUpdate1=1
-ParameterName2=Comment
+ParameterName2=Description
 ParameterUpdate2=1
-ParameterName3=Component Kind
+ParameterName3=Library Reference
 ParameterUpdate3=1
-ParameterName4=Description
+ParameterName4=Supplier 1
 ParameterUpdate4=1
-ParameterName5=LatestRevisionDate
+ParameterName5=Supplier Part Number 1
 ParameterUpdate5=1
-ParameterName6=LatestRevisionNote
-ParameterUpdate6=1
-ParameterName7=Library Reference
-ParameterUpdate7=1
-ParameterName8=PackageDescription
-ParameterUpdate8=1
-ParameterName9=PackageReference
-ParameterUpdate9=1
-ParameterName10=Published
-ParameterUpdate10=1
-ParameterName11=Publisher
-ParameterUpdate11=1
-ParameterName12=value
-ParameterUpdate12=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=FXL0420
+ModelName0=IS42S32800J-6BLI
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=FXL0624
-ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=FXL1360
-ModelUpdate2=1
-ModelType3=PCBLIB
-ModelName3=L0603
-ModelUpdate3=1
-ModelType4=PCBLIB
-ModelName4=L0805
-ModelUpdate4=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
