@@ -1,3 +1,4 @@
 Record=TopLevelDocument|FileName=top.SchDoc|SheetNumber=1
 Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=DRV|SchDesignator=DRV|FileName=drv8323.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=drv8323.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=PWR|SchDesignator=PWR|FileName=tps62130.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=tps62130.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=SDRAM|SchDesignator=SDRAM|FileName=is42s32800j.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=is42s32800j.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

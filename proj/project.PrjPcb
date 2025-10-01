@@ -24,7 +24,7 @@ ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=1
-AutoCrossReferences=0
+AutoCrossReferences=1
 NewIndexingOfSheetSymbols=1
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
@@ -42,7 +42,7 @@ CrossRefSheetStyle=2
 CrossRefLocationStyle=1
 CrossRefPorts=3
 CrossRefCrossSheets=1
-CrossRefSheetEntries=0
+CrossRefSheetEntries=1
 CrossRefFollowFromMainSettings=0
 
 [Preferences]
@@ -84,6 +84,23 @@ GenerateClassCluster=0
 DocumentUniqueId=SPCOHXLI
 
 [Document3]
+DocumentPath=top.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZCIWTNIT
+
+[Document4]
 DocumentPath=..\example\tps62130.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=100
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UIHLIGRC
 
-[Document4]
+[Document5]
 DocumentPath=..\example\drv8323.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=200
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WEIHRVUE
 
-[Document5]
+[Document6]
 DocumentPath=..\example\drv8323.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,23 +150,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[Document6]
-DocumentPath=top.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ZCIWTNIT
 
 [Document7]
 DocumentPath=..\example\is42s32800j.SchDoc
@@ -170,6 +170,23 @@ DocumentUniqueId=NHPKUPPA
 
 [Document8]
 DocumentPath=..\example\is42s32800j.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document9]
+DocumentPath=project.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
