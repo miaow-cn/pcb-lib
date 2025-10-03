@@ -204,7 +204,7 @@ DocumentUniqueId=
 
 [Document10]
 DocumentPath=..\example\stm32h750ibk6.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=400
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -221,7 +221,7 @@ DocumentUniqueId=JXFLCCMP
 
 [Document11]
 DocumentPath=..\example\stm32h750ibk6-pwr.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=500
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -948,7 +948,7 @@ Type49=0
 Type50=2
 Type51=0
 Type52=0
-Type53=0
+Type53=2
 Type54=1
 Type55=1
 Type56=2
