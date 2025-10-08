@@ -203,23 +203,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
-DocumentPath=..\example\miaow_foc_board.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YLBRPLID
-
-[Document11]
 DocumentPath=..\example\stm32h750xbh6.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=500
@@ -236,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TKEELFSS
 
-[Document12]
+[Document11]
 DocumentPath=..\example\stm32h750xbh6-pwr.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=600
@@ -253,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FNPAUCGR
 
-[Document13]
+[Document12]
 DocumentPath=..\example\stm32h750xbh6-sig.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=700
@@ -270,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RUJRGQAV
 
-[Document14]
+[Document13]
 DocumentPath=..\example\stm32h750xbh6-sig.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document14]
 DocumentPath=..\example\lcd.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=800
@@ -304,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IPFPICFA
 
-[Document16]
+[Document15]
 DocumentPath=..\example\lcd.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,9 +304,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document16]
 DocumentPath=..\example\klmag2gend-b031.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=900
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -338,8 +321,59 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CJHVMKZI
 
+[Document17]
+DocumentPath=..\example\mx25l25645gz2i-08g.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1000
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=9
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LENXESFR
+
 [Document18]
+DocumentPath=..\example\miaow_foc_board.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YLBRPLID
+
+[Document19]
 DocumentPath=..\example\klmag2gend-b031.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document20]
+DocumentPath=..\example\mx25l25645gz2i-08g.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1194,8 +1228,8 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=mw.SchLib
-ComponentDesignItemID0=STM32H750XBH6
-ComponentSymbolReference0=STM32H750XBH6
+ComponentDesignItemID0=KLMAG2GEND-B031
+ComponentSymbolReference0=KLMAG2GEND-B031
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1226,7 +1260,7 @@ ParameterUpdate5=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=STM32H750XBH6
+ModelName0=KLMAG2GEND-B031
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
