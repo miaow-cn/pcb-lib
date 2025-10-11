@@ -1,4 +1,5 @@
 Record=TopLevelDocument|FileName=top.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=DEBUG|SchDesignator=DEBUG|FileName=debug.SchDoc|SheetNumber=11|SymbolType=Normal|RawFileName=debug.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=DRV|SchDesignator=DRV|FileName=drv8323.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=drv8323.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=EMMC|SchDesignator=EMMC|FileName=klmag2gend-b031.SchDoc|SheetNumber=9|SymbolType=Normal|RawFileName=klmag2gend-b031.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=LCD|SchDesignator=LCD|FileName=lcd.SchDoc|SheetNumber=8|SymbolType=Normal|RawFileName=lcd.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
