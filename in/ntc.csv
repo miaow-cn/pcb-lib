@@ -1,0 +1,6 @@
+﻿Chip2PinSM,,,,,,,,,,
+FootprintName,Lmin,Lmax,Wmin,Wmax,Tmin,Tmax,Amin,Amax,PackageType,DensityLevel
+NTC0201,0.57,0.63,0.27,0.33,0.15,0.15,0.27,0.33,R,N
+NTC0402,0.95,1.05,0.45,0.55,0.25,0.25,0.45,0.55,R,N
+NTC0603,1.45,1.75,0.65,0.95,0.4,0.4,0.65,0.95,R,N
+NTC0805,1.8,2.2,1.05,1.45,0.45,0.45,1.05,1.45,R,N

@@ -102,7 +102,7 @@ DocumentUniqueId=ZCIWTNIT
 
 [Document4]
 DocumentPath=..\example\tps62130.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=200
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -119,7 +119,7 @@ DocumentUniqueId=UIHLIGRC
 
 [Document5]
 DocumentPath=..\example\drv8323.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=300
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -153,7 +153,7 @@ DocumentUniqueId=
 
 [Document7]
 DocumentPath=..\example\is42s32800j.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=400
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -204,7 +204,7 @@ DocumentUniqueId=
 
 [Document10]
 DocumentPath=..\example\stm32h750xbh6.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=500
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -221,7 +221,7 @@ DocumentUniqueId=TKEELFSS
 
 [Document11]
 DocumentPath=..\example\stm32h750xbh6-pwr.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=600
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -238,7 +238,7 @@ DocumentUniqueId=FNPAUCGR
 
 [Document12]
 DocumentPath=..\example\stm32h750xbh6-sig.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=700
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -272,7 +272,7 @@ DocumentUniqueId=
 
 [Document14]
 DocumentPath=..\example\lcd.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=800
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -306,7 +306,7 @@ DocumentUniqueId=
 
 [Document16]
 DocumentPath=..\example\klmag2gend-b031.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=900
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -323,7 +323,7 @@ DocumentUniqueId=CJHVMKZI
 
 [Document17]
 DocumentPath=..\example\mx25l25645gz2i-08g.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1000
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -423,6 +423,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document23]
+DocumentPath=..\example\tempature.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YBTZMMVT
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for project\BGA Escape Route - miaow_foc_board.html
 DItemRevisionGUID=
@@ -436,6 +453,45 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=-1
+ZoomPrecision=50
+AddNetsInformation=0
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=0
+TemplateFilename=Board Stack Report.XLT
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+Wir_PrintColor=0
+Ldr_PrintColor=0
+Esd_PrintColor=0
+SCH_ExpandLogicalToPhysical=0
+SCH_VariantName=[No Variations]
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=0
 
 [OutputGroup1]
 Name=Netlist Outputs
